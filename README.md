@@ -1,4 +1,4 @@
-### I'm a simple man, I try some code.
+### I'm a simple man, I try to invent some code.
 
 <!--
 **hopinggrasshopper/hopinggrasshopper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
