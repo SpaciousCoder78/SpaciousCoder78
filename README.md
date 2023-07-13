@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 ![breaking-bad-chemistry](https://user-images.githubusercontent.com/88923986/147622436-b637a0f6-de63-4962-9c3d-a814449d67e1.gif)
 
 ## Languages
-![image](https://github.com/SpaciousCoder78/SpaciousCoder78/assets/88923986/49ad93fe-5d46-473a-8749-a891fe86d573)
+![image](https://github.com/SpaciousCoder78/SpaciousCoder78/assets/88923986/6b0e2ec5-8b83-4ae6-af35-70f0790a1052)
+
 
 
 ![](https://raw.githubusercontent.com/SpaciousCoder78/github-stats/master/generated/overview.svg#gh-dark-mode-only)
