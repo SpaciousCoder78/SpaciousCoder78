@@ -34,9 +34,6 @@ Here are some ideas to get you started:
 ![](https://raw.githubusercontent.com/SpaciousCoder78/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=spaciouscoder78)
 
-## Coding Profiles
-[![codechef](https://github.com/SpaciousCoder78/SpaciousCoder78/assets/88923986/0a0e5abb-6035-4fb1-8f05-22fa2fdd0f03)](https://www.codechef.com/users/spaciouscoder7)
-[![codeforces](https://github.com/SpaciousCoder78/SpaciousCoder78/assets/88923986/ea6ee585-671e-4fdf-bad1-9e9e15a0a721)](https://codeforces.com/profile/spaciouscoder78)
-[!(hackerrank)](https://github.com/SpaciousCoder78/SpaciousCoder78/assets/88923986/629f8d66-2e86-4993-9f3c-6001d9ecf84b)](https://www.hackerrank.com/spaciouscoder78)
+
 
 
