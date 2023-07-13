@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![breaking-bad-chemistry](https://user-images.githubusercontent.com/88923986/147622436-b637a0f6-de63-4962-9c3d-a814449d67e1.gif)
+
+![](https://raw.githubusercontent.com/SpaciousCoder78/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/SpaciousCoder78/github-stats/master/generated/languages.svg#gh-dark-mode-only)
