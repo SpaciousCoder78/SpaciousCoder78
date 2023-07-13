@@ -19,8 +19,15 @@ Here are some ideas to get you started:
 
 ## Languages
 ![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_64x64.png?raw=true)
+![python](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_64x64.png?raw=true)
+![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_64x64.png?raw=true)
+![csharp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/csharp/csharp_64x64.png?raw=true)
+![javascript](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_64x64.png?raw=true)
+![c](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/c/c_64x64.png?raw=true)
+![lua](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/lua/lua_64x64.png?raw=true)
 
 
+## Stats
 
 ![](https://raw.githubusercontent.com/SpaciousCoder78/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/SpaciousCoder78/github-stats/master/generated/languages.svg#gh-dark-mode-only)
