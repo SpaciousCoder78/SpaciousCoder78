@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 ![breaking-bad-chemistry](https://user-images.githubusercontent.com/88923986/147622436-b637a0f6-de63-4962-9c3d-a814449d67e1.gif)
 
+## Languages
+![image](https://github.com/SpaciousCoder78/SpaciousCoder78/assets/88923986/49ad93fe-5d46-473a-8749-a891fe86d573)
+
+
 ![](https://raw.githubusercontent.com/SpaciousCoder78/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/SpaciousCoder78/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=spaciouscoder78)
