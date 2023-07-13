@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ![javascript](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_64x64.png?raw=true)
 ![c](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/c/c_64x64.png?raw=true)
 ![lua](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/lua/lua_64x64.png?raw=true)
+<!---->
 
 
 ## Stats
