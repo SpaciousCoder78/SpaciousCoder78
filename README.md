@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=spaciouscoder78)
 
 ## Coding Profiles
-[![codechef](https://github.com/SpaciousCoder78/SpaciousCoder78/assets/88923986/6f54ab9e-7808-4845-a6d9-40f6ad4a2596)](https://www.codechef.com/users/spaciouscoder7)
+[![codechef](https://github.com/SpaciousCoder78/SpaciousCoder78/assets/88923986/0a0e5abb-6035-4fb1-8f05-22fa2fdd0f03)](https://www.codechef.com/users/spaciouscoder7)
