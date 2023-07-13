@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![breaking-bad-chemistry](https://user-images.githubusercontent.com/88923986/147622436-b637a0f6-de63-4962-9c3d-a814449d67e1.gif)
 
 ## Languages
-![image](https://github.com/SpaciousCoder78/SpaciousCoder78/assets/88923986/6b0e2ec5-8b83-4ae6-af35-70f0790a1052)
+![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_64x64.png?raw=true)
 
 
 
