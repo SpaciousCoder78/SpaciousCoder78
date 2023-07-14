@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 ![javascript](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_64x64.png?raw=true)
 ![c](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/C_Logo(1).png?raw=true)
 ![lua](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/lua/lua_64x64.png?raw=true)
+
+## Tools
+![vscode](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/vscode(1).png?raw=true)
+![intellij](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/intellij(1).png?raw=true)
 <!---->
 
 
