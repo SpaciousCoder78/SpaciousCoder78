@@ -24,7 +24,12 @@ Here are some ideas to get you started:
 ![csharp](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/c%23(1).png?raw=true)
 ![javascript](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_64x64.png?raw=true)
 ![c](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/C_Logo(1).png?raw=true)
+![html](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/html5-original(1).png?raw=true)
+![css](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/css3-original(1).png?raw=true)
 ![lua](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/lua/lua_64x64.png?raw=true)
+
+## Frameworks
+![bootstrap](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/bootstrap-original(1).png?raw=true)
 
 ## Tools
 ![vscode](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/vscode(1).png?raw=true)
