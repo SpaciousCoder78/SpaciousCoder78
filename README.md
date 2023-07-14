@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 ## Tools
 ![vscode](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/vscode(1).png?raw=true)
 ![intellij](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/intellij(1).png?raw=true)
+![git](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/git(1)(1).png?raw=true)
 <!---->
 
 
