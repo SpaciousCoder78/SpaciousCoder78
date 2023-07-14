@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_64x64.png?raw=true)
 ![python](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_64x64.png?raw=true)
 ![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_64x64.png?raw=true)
-![csharp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/csharp/csharp_64x64.png?raw=true)
+![csharp](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/c%23(1).png?raw=true)
 ![javascript](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_64x64.png?raw=true)
 ![c](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/C_Logo(1).png?raw=true)
 ![lua](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/lua/lua_64x64.png?raw=true)
