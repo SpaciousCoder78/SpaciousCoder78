@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 
 
 ## Stats
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=spaciouscoder78&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spaciouscoder78&layout=compact)
 ![](https://raw.githubusercontent.com/SpaciousCoder78/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/SpaciousCoder78/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=spaciouscoder78)
