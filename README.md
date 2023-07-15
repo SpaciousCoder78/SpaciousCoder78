@@ -31,10 +31,15 @@ Here are some ideas to get you started:
 ## Frameworks
 ![bootstrap](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/bootstrap-original(1).png?raw=true)
 
+## Databases
+![mysql](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/mysql-original(1).png?raw=true)
+![sqlite](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/sqlite-original(2).png?raw=true)
+
 ## Tools
 ![vscode](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/vscode(1).png?raw=true)
 ![intellij](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/intellij(1).png?raw=true)
 ![git](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/git(1)(1).png?raw=true)
+![visualstudio](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/visualstudio-plain(1).png?raw=true)
 <!---->
 
 
