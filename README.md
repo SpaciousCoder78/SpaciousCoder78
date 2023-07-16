@@ -23,13 +23,18 @@ Here are some ideas to get you started:
 ![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_64x64.png?raw=true)
 ![csharp](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/c%23(1).png?raw=true)
 ![javascript](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_64x64.png?raw=true)
-![c](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/C_Logo(1).png?raw=true)
+![c](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/c-original(1).png?raw=true)
 ![html](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/html5-original(1).png?raw=true)
 ![css](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/css3-original(1).png?raw=true)
 ![lua](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/lua/lua_64x64.png?raw=true)
 
 ## Frameworks
 ![bootstrap](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/bootstrap-original(1).png?raw=true)
+![electron](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/electron-original(1).png?raw=true)
+![node](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/nodejs-original(1).png?raw=true)
+
+## Libraries
+![discord py](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/disnake-logo(1).png?raw=true)
 
 ## Databases
 ![mysql](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/mysql-original(1).png?raw=true)
@@ -40,6 +45,10 @@ Here are some ideas to get you started:
 ![intellij](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/intellij(1).png?raw=true)
 ![git](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/git(1)(1).png?raw=true)
 ![visualstudio](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/visualstudio-plain(1).png?raw=true)
+![firefox](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/Firefox_logo,_2019(1).png?raw=true)
+![gitlab](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/gitlab-original(1).png?raw=true)
+![linux](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/linux-original(1).png?raw=true)
+
 <!---->
 
 
