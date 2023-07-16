@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 ![html](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/html5-original(1).png?raw=true)
 ![css](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/css3-original(1).png?raw=true)
 ![lua](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/lua/lua_64x64.png?raw=true)
+![typescript](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/typescript-original(1).png?raw=true)
+
 
 ## Frameworks
 ![bootstrap](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/bootstrap-original(1).png?raw=true)
@@ -35,6 +37,7 @@ Here are some ideas to get you started:
 
 ## Libraries
 ![discord py](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/disnake-logo(1).png?raw=true)
+![discordjs](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/discordjs-original(1).png?raw=true)
 
 ## Databases
 ![mysql](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/mysql-original(1).png?raw=true)
