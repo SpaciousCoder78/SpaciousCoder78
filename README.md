@@ -60,7 +60,6 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=spaciouscoder78&show_icons=true&theme=radical)
 ![](https://raw.githubusercontent.com/SpaciousCoder78/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 [![SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/18499990)](https://github.com/johannchopin/stackoverflow-readme-profile)
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=spaciouscoder78)
 [![leetcode](https://leetcode-stats-six.vercel.app/?username=spaciouscoder78)](https://github.com/KnlnKS/leetcode-stats)
 
 
