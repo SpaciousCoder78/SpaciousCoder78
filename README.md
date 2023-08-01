@@ -61,7 +61,6 @@ Here are some ideas to get you started:
 ![](https://raw.githubusercontent.com/SpaciousCoder78/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=spaciouscoder78)
 [![leetcode](https://leetcode-stats-six.vercel.app/?username=spaciouscoder78)](https://github.com/KnlnKS/leetcode-stats)
-[![SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/18499990)](https://github.com/johannchopin/stackoverflow-readme-profile)
 
 
 
