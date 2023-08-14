@@ -47,8 +47,9 @@ Here are some ideas to get you started:
 ## Tools
 ![vscode](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/vscode(1).png?raw=true)
 ![intellij](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/intellij(1).png?raw=true)
+![clion](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/clion(1).png?raw=true)
 ![git](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/git(1)(1).png?raw=true)
-![visualstudio](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/visualstudio-plain(1).png?raw=true)
+![visualstudio](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/Visual_Studio_Icon_2022(1).png?raw=true)
 ![firefox](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/Firefox_logo,_2019(1).png?raw=true)
 ![gitlab](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/gitlab-original(1).png?raw=true)
 ![linux](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/linux-original(1).png?raw=true)
