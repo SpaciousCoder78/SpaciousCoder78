@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 ![bootstrap](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/bootstrap-original(1).png?raw=true)
 ![electron](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/electron-original(1).png?raw=true)
 ![node](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/nodejs-original(1).png?raw=true)
-![vue](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/vuejs-original(1).png?raw=true)
 
 ## Libraries
 ![discord py](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/disnake-logo(1).png?raw=true)
