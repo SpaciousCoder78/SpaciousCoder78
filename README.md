@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 ![csharp](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/csharp-original(1).png?raw=true)
 ![javascript](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_64x64.png?raw=true)
 ![c](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/c-original(1).png?raw=true)
-![html](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/html5-original(1).png?raw=true)
-![css](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/css3-original(1).png?raw=true)
 ![lua](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/lua/lua_64x64.png?raw=true)
 ![typescript](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/typescript-original(1).png?raw=true)
 ![kotlin](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/kotlin(1).png?raw=true)
