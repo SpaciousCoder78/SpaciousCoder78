@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 ![firefox](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/Firefox_logo,_2019(1).png?raw=true)
 ![gitlab](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/gitlab-original(1).png?raw=true)
 ![linux](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/linux-original(1).png?raw=true)
+![vim](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/vim-original(1).png?raw=true)
 
 <!---->
 
