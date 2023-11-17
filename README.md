@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![javascript](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_64x64.png?raw=true)
 ![c](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/695px-C_Programming_Language(1).png?raw=true)
 ![typescript](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/typescript-original(1).png?raw=true)
-![rust](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/image.png?raw=true)
+![matlab](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/matlab-original(1).png?raw=true)
 
 
 
