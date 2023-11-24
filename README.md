@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![b32edc94a13b9e355663a3c8960720ae](https://github.com/SpaciousCoder78/SpaciousCoder78/assets/88923986/da5f1296-e610-416e-96ef-4a38c6fb21fd)
 
-```
+```cpp
 #include <github.h>
 
 void profile(){
