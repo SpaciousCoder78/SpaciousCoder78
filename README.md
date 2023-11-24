@@ -30,7 +30,7 @@ void profile(){
 
 }
 ```
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E5F7E4&background=000000&multiline=true&random=false&width=435&lines=Username%3A+SpaciousCoder78;Current+Position%3A+Undergrad+Engineering+Student;Location%3A+Warangal%2C+India;Twitter%3A+%40SpaciousCoder78;Reddit%3A+u%2FSpaciousCoder78)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E5F7E4&background=000000&multiline=true&repeat=false&random=false&width=600&height=250&lines=Username%3A+SpaciousCoder78;Current+Position%3A+Undergrad+Engineering+Student;Location%3A+Warangal%2C+India;Twitter%3A+%40SpaciousCoder78;Reddit%3A+u%2FSpaciousCoder78)](https://git.io/typing-svg)
 
 
 ## Languages
