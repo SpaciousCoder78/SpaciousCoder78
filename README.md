@@ -23,6 +23,11 @@ using namespace std;
 
 void profile(){
     cout<<"Username: SpaciousCoder78"<<endl;
+    cout<<"Current Position: Undergrad Engineering Student<<"endl;
+    cout<<"Location: Warangal, India"<<endl;
+    cout<<"Twitter: @SpaciousCoder78"<<endl;
+    cout<<"Reddit: u/SpaciousCoder78"<<endl;
+
 }
 ```
 
