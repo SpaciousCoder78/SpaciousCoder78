@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 ```cpp
 #include <github.h>
 
-void profile(){
+using namespace std;
 
+void profile(){
+    cout<<"Username: SpaciousCoder78"<<endl;
 }
 ```
 
