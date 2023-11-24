@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![b32edc94a13b9e355663a3c8960720ae](https://github.com/SpaciousCoder78/SpaciousCoder78/assets/88923986/da5f1296-e610-416e-96ef-4a38c6fb21fd)
 
-![breaking-bad-chemistry](https://user-images.githubusercontent.com/88923986/147622436-b637a0f6-de63-4962-9c3d-a814449d67e1.gif)
+
 
 ## Languages
 ![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_64x64.png?raw=true)
