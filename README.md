@@ -49,6 +49,8 @@ void profile(){
 ![bootstrap](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/bootstrap-original(1).png?raw=true)
 ![electron](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/electron-original(1).png?raw=true)
 ![node](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/nodejs-original(1).png?raw=true)
+![vue](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/vuejs-original(1).png?raw=true)
+![express](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/express-js(1).png?raw=true)
 
 ## Libraries
 ![discord py](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/disnake-logo(1).png?raw=true)
@@ -62,6 +64,7 @@ void profile(){
 ![vscode](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/vscode(1).png?raw=true)
 ![intellij](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/intellij(1).png?raw=true)
 ![clion](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/clion(1).png?raw=true)
+![vite](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/Vitejs-logo.svg(1).png?raw=true)
 ![git](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/git(1)(1).png?raw=true)
 ![visualstudio](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/Visual_Studio_Icon_2022(1).png?raw=true)
 ![firefox](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/Firefox_logo,_2019(1).png?raw=true)
