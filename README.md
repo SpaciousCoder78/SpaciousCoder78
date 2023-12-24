@@ -1,4 +1,5 @@
-### ".jar files are addicting..."  - SpaciousCoder78
+### ".jar files are addicting..."  
+  - SpaciousCoder78
 
 <!--
 **hopinggrasshopper/hopinggrasshopper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
