@@ -78,7 +78,7 @@ void profile(){
 
 
 ## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=spaciouscoder78&show_icons=true&theme=radical)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/SpaciousCoder78/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 
