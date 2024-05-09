@@ -53,6 +53,7 @@ void profile(){
 ![node](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/nodejs-original(1).png?raw=true)
 ![react](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/react-original(1).png?raw=true)
 ![express](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/express-js(1).png?raw=true)
+![vue](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/vuejs-original(1).png?raw=true)
 
 ## Libraries
 ![discord py](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/disnake-logo(1).png?raw=true)
