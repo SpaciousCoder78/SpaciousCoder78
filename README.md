@@ -1,98 +1,38 @@
-# ".jar files are addicting..."  
-### - SpaciousCoder78
 
-<!--
-**hopinggrasshopper/hopinggrasshopper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Aryan Karamtoth</h1>
+<h3 align="center">Software Developer</h3>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=spaciouscoder78&label=Profile%20views&color=0e75b6&style=flat" alt="spaciouscoder78" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![b32edc94a13b9e355663a3c8960720ae](https://github.com/SpaciousCoder78/SpaciousCoder78/assets/88923986/da5f1296-e610-416e-96ef-4a38c6fb21fd)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spaciouscoder78" alt="spaciouscoder78" /></a> </p>
 
-```cpp
-#include <github.h>
+<p align="left"> <a href="https://twitter.com/spaciouscoder78" target="blank"><img src="https://img.shields.io/twitter/follow/spaciouscoder78?logo=twitter&style=for-the-badge" alt="spaciouscoder78" /></a> </p>
 
-using namespace std;
+- 📝 I regularly write articles on [spaciouscoder78.hashnode.dev](spaciouscoder78.hashnode.dev)
 
-void profile(){
-    cout<<"Username: SpaciousCoder78"<<endl;
-    cout<<"Current Position: Undergrad Engineering Student<<"endl;
-    cout<<"Location: Warangal, India"<<endl;
-    cout<<"Twitter: @SpaciousCoder78"<<endl;
-    cout<<"Reddit: u/SpaciousCoder78"<<endl;
+- ⚡ Fun fact **I've been using computers since I was 3 years old**
 
-}
-```
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E5F7E4&background=000000&multiline=true&repeat=false&random=false&width=600&height=250&lines=Username%3A+SpaciousCoder78;Current+Position%3A+Undergrad+Engineering+Student;Location%3A+Warangal%2C+India;Twitter%3A+%40SpaciousCoder78;Reddit%3A+u%2FSpaciousCoder78)](https://git.io/typing-svg)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/spaciouscoder78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="spaciouscoder78" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/spaciouscoder78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="spaciouscoder78" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18499990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18499990" height="30" width="40" /></a>
+<a href="https://kaggle.com/spaciouscoder78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="spaciouscoder78" height="30" width="40" /></a>
+<a href="https://hashnode.com/@spaciouscoder78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@spaciouscoder78" height="30" width="40" /></a>
+<a href="https://medium.com/@spaciouscoder78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@spaciouscoder78" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/spaciouscoder7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="spaciouscoder7" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/spaciouscoder78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="spaciouscoder78" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/spaciouscoder78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="spaciouscoder78" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://cordova.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-## Languages
-![cpp](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/cpp/cpp_64x64.png?raw=true)
-![python](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/python/python_64x64.png?raw=true)
-![java](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java_64x64.png?raw=true)
-![csharp](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/c(1).png?raw=true)
-![javascript](https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/javascript/javascript_64x64.png?raw=true)
-![c](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/695px-C_Programming_Language(1).png?raw=true)
-![typescript](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/typescript-original(1).png?raw=true)
-![matlab](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/matlab-original(1).png?raw=true)
-![kotlin](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/kotlin(1).png?raw=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spaciouscoder78&show_icons=true&locale=en&layout=compact" alt="spaciouscoder78" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spaciouscoder78&show_icons=true&locale=en" alt="spaciouscoder78" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spaciouscoder78&" alt="spaciouscoder78" /></p>
 
 
-
-## Frameworks
-![bootstrap](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/bootstrap-original(1).png?raw=true)
-![electron](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/electron-original(1).png?raw=true)
-![node](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/nodejs-original(1).png?raw=true)
-![react](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/react-original(1).png?raw=true)
-![express](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/express-js(1).png?raw=true)
-![vue](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/vuejs-original(1).png?raw=true)
-
-## Libraries
-![discord py](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/disnake-logo(1).png?raw=true)
-![discordjs](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/discordjs-original(1).png?raw=true)
-
-## Databases
-![mysql](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/mysql-original(1).png?raw=true)
-![sqlite](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/sqlite-original(2).png?raw=true)
-![firebase](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/firebase-original(1).png?raw=true)
-
-## Tools
-![vscode](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/vscode(1).png?raw=true)
-![intellij](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/intellij(1).png?raw=true)
-![clion](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/clion(1).png?raw=true)
-![vite](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/Vitejs-logo.svg(1).png?raw=true)
-![git](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/git(1)(1).png?raw=true)
-![visualstudio](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/Visual_Studio_Icon_2022(1).png?raw=true)
-![firefox](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/Firefox_logo,_2019(1).png?raw=true)
-![gitlab](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/gitlab-original(1).png?raw=true)
-![linux](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/linux-original(1).png?raw=true)
-![vim](https://github.com/SpaciousCoder78/SpaciousCoder78/blob/main/img/vim-original(1).png?raw=true)
-
-
-<!---->
-
-
-## Stats
-![](https://raw.githubusercontent.com/spaciouscoder78/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/SpaciousCoder78/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-
-## Profiles
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@spaciouscoder78)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@spaciouscoder78)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/spaciouscoder7)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/spaciouscoder78)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/spaciouscoder78)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/SpaciousCoder78/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/spaciouscoder78)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18499990/spaciouscoder78)
-[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)](https://forums.linuxmint.com/memberlist.php?mode=viewprofile&u=358883)
 
