@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Software Developer who wants to make a change in the world.
+I'm a Software Developer who wants to bring a change to the world.
 
 
 ## 🌐 Socials:
