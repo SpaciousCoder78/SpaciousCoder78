@@ -3,6 +3,10 @@
 # 💫 About Me:
 I'm a Software Developer who wants to bring a change to the world.
 
+# Contact 
+You can contact me on [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/spaciouscoder78) 
+
+
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@spaciouscoder78) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/spaciouscoder78) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18499990) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/spaciouscoder78) 
