@@ -3,9 +3,12 @@
 # 💫 About Me:
 I'm a Software Developer who wants to bring a change to the world.
 
+
 # Contact 
 You can contact me on [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/spaciouscoder78) 
 
+## Holopin Board
+[![An image of @spaciouscoder78's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/spaciouscoder78)](https://holopin.io/@spaciouscoder78)
 
 
 ## 🌐 Socials:
