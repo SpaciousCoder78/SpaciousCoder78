@@ -1,8 +1,17 @@
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/>
 
+
 # 💫 About Me:
+
+
+<p align="center">
+  <img src="https://files.catbox.moe/qf3yl5.png">
+</p>
 I do things when I'm bored
 
+Software Translation Maintainer for Linux Mint, Ubuntu and many more projects!
+
+Project Maintainer of QuickOverflow
 
 # Contact 
 You can contact me on [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/spaciouscoder78) [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/spaciouscoder78.bsky.social)
