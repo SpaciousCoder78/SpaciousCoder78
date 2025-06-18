@@ -3,15 +3,16 @@
 
 # 💫 About Me:
 
-
-<p align="center">
-  <img src="https://files.catbox.moe/qf3yl5.png">
-</p>
 I do things when I'm bored
 
 Software Translation Maintainer for Linux Mint, Ubuntu and many more projects!
 
+Donor for Linux Mint
+
 Project Maintainer of QuickOverflow
+
+
+  <img src="https://files.catbox.moe/qf3yl5.png">
 
 # Contact 
 You can contact me on [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/spaciouscoder78) [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/spaciouscoder78.bsky.social)
