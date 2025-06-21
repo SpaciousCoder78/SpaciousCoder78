@@ -7,12 +7,6 @@ I do things when I'm bored
 
 Software Translation Maintainer for Linux Mint, Ubuntu and many more projects!
 
-Donor for Linux Mint
-
-Project Maintainer of QuickOverflow
-
-
-  <img src="https://files.catbox.moe/qf3yl5.png">
 
 # Contact 
 You can contact me on [![Element](https://img.shields.io/badge/element-0DBD8B.svg?style=for-the-badge&logo=element&logoColor=white)](https://matrix.to/#/@spaciouscoder78:matrix.org) [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/spaciouscoder78.bsky.social)
