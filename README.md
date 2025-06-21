@@ -15,14 +15,14 @@ Project Maintainer of QuickOverflow
   <img src="https://files.catbox.moe/qf3yl5.png">
 
 # Contact 
-You can contact me on [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/spaciouscoder78) [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/spaciouscoder78.bsky.social)
+You can contact me on [![Element](https://img.shields.io/badge/element-0DBD8B.svg?style=for-the-badge&logo=element&logoColor=white)](https://matrix.to/#/@spaciouscoder78:matrix.org) [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/spaciouscoder78.bsky.social)
 
 ## Holopin Board
 [![An image of @spaciouscoder78's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/spaciouscoder78)](https://holopin.io/@spaciouscoder78)
 
 
 ## 🌐 Socials:
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@spaciouscoder78)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18499990) [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/spaciouscoder78) [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/spaciouscoder78.bsky.social)
+[![Element](https://img.shields.io/badge/element-0DBD8B.svg?style=for-the-badge&logo=element&logoColor=white)](https://matrix.to/#/@spaciouscoder78:matrix.org)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18499990)  [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/spaciouscoder78.bsky.social)
 
 # Tech Stack (Hardware):
  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog%20-%20purple?style=for-the-badge&logo=verilog)
